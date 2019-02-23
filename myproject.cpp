@@ -6,7 +6,7 @@
 using namespace std;
 class user
 {
-	char c_name[50];
+	char d_name[50];
 	char name[50];
 	char section[10];
 	char id[50];
